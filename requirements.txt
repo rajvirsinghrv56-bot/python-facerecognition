@@ -1,0 +1,9 @@
+opencv-python
+face_recognition
+pandas
+numpy
+dlib
+cmake
+
+
+conda env create -f face_environment.yml
